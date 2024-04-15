@@ -1,0 +1,12 @@
+https://github.com/Francois05112002/Fourie_st10152431_Part1_POE.git
+
+1. when entering the CookBook console application, the user will be met with a 7-point menu
+2. choice 1 will allow the user to add a new recipe by entering the names ingredients used, measurements and steps to create the dish 
+3. these different resipes are stored as an Array in a seperate class "RecipeManager"
+4. option 2 on the menu will display all recipes entered along with there ingredients needed and steps.
+5. option 3 will allow the user to scale their different recipes by 0.5, 2 and 3... the ingredients will be incremented by the users choice.
+6. option 3 will also prompt the user to choose a spicific recipe to scale.
+7. option 4 on the menu will allow the user to select a spicific recipe and reset the adjustable quantities to their original form.
+8. option 5 will clear all recipe data.
+9. option 6 will just play some Rick Astley.
+10. option 7 will allow the user to close the application.
